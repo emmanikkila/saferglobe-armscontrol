@@ -16,6 +16,3 @@ The data was acquired from the Finnish Customs, Finnish Ministry for Defence, an
 - <b>Jupyter Notebook</b>
 - <b>Microsoft Power BI</b>
 - <b>Microsoft Excel</b>
-
-```
---!>
