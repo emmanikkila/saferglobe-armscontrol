@@ -1,4 +1,4 @@
-<h1>Arms Control Raport 2022 (SaferGlobe)</h1>
+<h1>Arms Control Report 2022 (SaferGlobe)</h1>
 
  ### [Link to Report - SaferGlobe](https://saferglobe.fi/asevalvontaraportti/)
 
